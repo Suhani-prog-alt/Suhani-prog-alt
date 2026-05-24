@@ -51,23 +51,127 @@
 
 # 🚀 Tech Stack
 
-## Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sql" />
-</p>
+<div align="center">
 
-## Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,mysql,nodejs,bootstrap" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
 
-## Other Tools
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
 
-Power BI • Tableau • PostgreSQL • Oracle • Canva • AutoCAD
+</td>
 
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
+<b>Java</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=c" width="65"/><br>
+<b>C</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br>
+<b>HTML5</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br>
+<b>CSS3</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br>
+<b>JavaScript</b>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠 Frameworks & Tools
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>
+<b>Bootstrap</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## ⚙ Other Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Always learning. Always building. 🚀
+
+</div>
 ---
 
 # 💻 Featured Projects
