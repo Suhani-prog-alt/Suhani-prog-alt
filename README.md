@@ -31,7 +31,7 @@
 
 🎓 B.Tech Computer Science Engineering Student  
 📍 GLA University, Mathura  
-📈 CPI: **9.27/10**  
+📈 CPI: **9.11/10**  
 🌱 Learning **DSA, Open Source & Full Stack Development**  
 💡 Passionate about **problem-solving and real-world projects**  
 ⚡ Believe in **Progress, Passion & Purpose**
