@@ -49,21 +49,6 @@
 
 ### 💻 About Me
 
-```javascript
-const suhani = {
-  education: "B.Tech CSE @ GLA University, Mathura (CPI: 9.11/10.0)",
-  roles: ["AI & Data Intern", "Full-Stack Builder", "Open-Source Contributor"],
-  competitiveProgramming: {
-    leetCode: "400+ problems solved",
-    codeforces: "1000+ rating",
-    hackathons: "4th Place @ AI-NIRMAN Hackathon, 9+ Codathons"
-  },
-  openSource: ["GSSoC 2026 (Nyay Setu)", "Spandan & CSFAQ (IIT Ropar)"],
-  currentFocus: ["Autonomous AI Agents (MCP & ADK)", "Full-Stack Web Dev", "Advanced DSA"],
-  superpower: "Deconstructing complex problems into elegant, scalable software solutions ⚡"
-};
-```
-
 - 🎓 **Education:** B.Tech in CSE at **GLA University of Mathura** (CPI: **9.11 / 10.0** | 2024–2028).
 - 💼 **Experience:** 
   - Former Intern at **IIT Ropar (Vicharanashala)** — Contributed to open-source systems (*Spandan*, *CSFAQ*) and MERN/AI pipelines.
