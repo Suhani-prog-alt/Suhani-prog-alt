@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Mascot / Avatar -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPdjH4jCrBXEyP3WA2L2odzMaxaRzsNORVQ&s" width="130" style="border-radius: 50%;" alt="Suhani Sikarwar Mascot" />
+  <img src="https://github.com/Suhani-prog-alt.png" width="160" style="border-radius:50%;" alt="Pandu" />
 
   <h1>Hi 👋, I'm <span style="color: #6366F1;">Suhani Sikarwar</span></h1>
 
